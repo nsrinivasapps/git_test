@@ -15,11 +15,6 @@ Mathematical Problems in Data Science
 
 Introduction to HPC with MPI for Data Science
 
-nakkasrikanth@gmail.com
-
-
-Jhansi Nakka <jhansi.siriprolu@gmail.com>
-
 http://www.springer.com/us/shop/computerscience-ebooks
 
 Coupon code is: Cyber16e
